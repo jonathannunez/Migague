@@ -8,7 +8,7 @@ namespace MiGague.Models
 {
     public class CategoriaTributaria
     {
-        public stataic int id { get; set; }
+        public static int id { get; set; }
         public string nombre { get; set; }
         public string descripcion { get; set; }
     }
