@@ -66,7 +66,6 @@ C:\MiGague\MiGague\MiGague\obj\Debug\MiGague.csprojResolveAssemblyReference.cach
 C:\MiGague\MiGague\MiGague\obj\Debug\MiGague.dll
 C:\MiGague\MiGague\MiGague\obj\Debug\MiGague.pdb
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.csprojResolveAssemblyReference.cache
-C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.Resources.IndexTextTestES.resources
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.Resources.IndexTextTest.resources
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.csproj.GenerateResource.Cache
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.dll
@@ -135,3 +134,6 @@ C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\bin\Microsoft.AI.DependencyColl
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\bin\Microsoft.AI.ServerTelemetryChannel.xml
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\bin\Microsoft.AI.WindowsServer.xml
 C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\bin\Microsoft.AI.Web.xml
+C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\bin\es\MiGague.resources.dll
+C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\MiGague.Resources.IndexTextTest.es.resources
+C:\Users\LeBlanc\Desktop\Migague\MiGague\MiGague\obj\Debug\es\MiGague.resources.dll

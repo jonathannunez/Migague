@@ -123,6 +123,9 @@
   <data name="Contact" xml:space="preserve">
     <value>Contacto</value>
   </data>
+  <data name="FirstTittle" xml:space="preserve">
+    <value>Bienvenido a MiGague</value>
+  </data>
   <data name="Home" xml:space="preserve">
     <value>Inicio</value>
   </data>

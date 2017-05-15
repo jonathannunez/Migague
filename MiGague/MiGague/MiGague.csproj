@@ -163,8 +163,8 @@
     <Compile Include="Models\TipoProducto.cs" />
     <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Resources\IndexTextTestES.Designer.cs">
-      <DependentUpon>IndexTextTestES.resx</DependentUpon>
+    <Compile Include="Resources\IndexTextTest.es.Designer.cs">
+      <DependentUpon>IndexTextTest.es.resx</DependentUpon>
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
     </Compile>
@@ -234,9 +234,9 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Resources\IndexTextTestES.resx">
+    <EmbeddedResource Include="Resources\IndexTextTest.es.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>
-      <LastGenOutput>IndexTextTestES.Designer.cs</LastGenOutput>
+      <LastGenOutput>IndexTextTest.es.Designer.cs</LastGenOutput>
     </EmbeddedResource>
     <EmbeddedResource Include="Resources\IndexTextTest.resx">
       <Generator>PublicResXFileCodeGenerator</Generator>

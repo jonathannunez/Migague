@@ -79,6 +79,15 @@ namespace MiGague.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Welcome to MiGague.
+        /// </summary>
+        public static string FirstTittle {
+            get {
+                return ResourceManager.GetString("FirstTittle", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Home.
         /// </summary>
         public static string Home {
